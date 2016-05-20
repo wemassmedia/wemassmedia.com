@@ -72,8 +72,8 @@ author:
   avatar           : "bio-we-200x200.png"
   bio              : "Media. Empowering. Community."
   location         : "San Jose, California"
-  email            :
-  uri              :
+  email            : "contact@wemassmedia.com"
+  uri              : "http://wemassmedia.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -96,6 +96,10 @@ author:
   weibo            :
   xing             :
   youtube          :
+  vimeo            : "http://vimeo.com/wemassmedia"
+  twitter          : "wemassmedia"
+  facebook         : "wemassmedia"
+  instagram        : "wemassmedia"
 
 
 # Reading Files
