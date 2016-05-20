@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Media. Empowering. Community.** WE Mass Media is a nonprofit synergistic media company using creative digital storytelling and media to build community and empower people.
+**Media. Empowering. Community.** WE Mass Media is a synergistic social enterprise using creative digital storytelling and media to build community and empower people.
 
 Join the dialogue: <a href="https://twitter.com/wemassmedia">@wemassmedia</a>.
 
