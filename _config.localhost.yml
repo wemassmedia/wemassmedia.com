@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Project What Extent"
+title                    : "WE Mass Media"
 title_separator          : "-"
-name                     : "Project What Extent Inc"
+name                     : "WE Mass Media, Inc"
 description              : "Building Community. Empowering People."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : whatextent # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : wemassmedia # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,11 +55,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : whatextent
+  username               : wemassmedia
 instagram:
-  username               : whatextent
+  username               : wemassmedia
 facebook:
-  username               : whatextent
+  username               : wemassmedia
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -79,22 +79,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Project What Extent Inc."
+  name             : "WE Mass Media, Inc."
   avatar           : /assets/images/bio/bio-we-200x200.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "WE are a synergistic social enterprise & platform to build community and empower people, by doing the things we love and were born to do."
+  bio              : "Media. Empowering. Community."
   location         : "San Jose, California"
-  email            : "contact@whatextent.com"
+  email            : "info@wemassmedia.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : whatextent
+  facebook         : wemassmedia
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        : whatextent
+  instagram        : wemassmedia
   lastfm           :
   linkedin         :
   pinterest        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : whatextent
+  twitter          : wemassmedia
   vine             :
   weibo            :
   xing             :
