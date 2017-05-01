@@ -1,6 +1,6 @@
 ---
 title: "Justin Too"
-excerpt: "President and Chief Executive Officer, Ultra-endurance Christian leader, Social Entrepreneur, Technical project manager, Software developer, and Creative media professional."
+excerpt: "Managing Director, Ultra-endurance Christian leader, Social Entrepreneur, Technical project manager, Software developer, and Creative media professional."
 permalink: /about/justin-too/
 author_profile: false
 header:
@@ -9,16 +9,9 @@ header:
   caption: "[Justin Too](http://justintoo.com) - Founder, President and CEO"
 categories:
   - Team
-  - Board of Directors
-  - Executive Staff
 tags:
   - team
-  - board of directors
-  - governance
-  - executive staff
-  - chief executive officer
-  - president
-  - project what extent
+  - management team
   - justin too
   - founder
 gallery-a21:
@@ -45,7 +38,7 @@ gallery-raam:
 
 {% include base_path %}
 
-[Justin Too](http://justintoo.com) is the visionary founder of [Project What Extent Inc.](http://whatextent.com) and humbly serves as the President and Chief Executive Officer.
+[Justin Too](http://justintoo.com) is the visionary founder of [WE Mass Media, Inc.](http://wemassmedia.com) and humbly serves as the President and Managing Director.
 {: .text-justify}
 
 ![First Board Dinner of Project What Extent]({{ "/assets/images/about/team/board-of-directors/justin-too/board-dinner.jpg" | absolute_url }}){: .align-center}

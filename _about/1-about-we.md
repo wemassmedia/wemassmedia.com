@@ -1,6 +1,6 @@
 ---
 title: "About WE"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: ""
 permalink: /about/
 author_profile: false
 header:
@@ -11,15 +11,12 @@ header:
 
 {% include base_path %}
 
-**Project What Extent** (WE) is a synergistic ecclesiastical social enterprise and platform to **build community** and **empower people**, by doing the things we love and were born to do.
+**WE Mass Media, Inc.** (WE) is a multimedia company based in the greater San Francisco Bay Area. Our passion is to build your community by empowering your stories.
 
-Anyone can join; everyone can make a difference. Together we can make a positive impact on our world with our everyday lives as we pursue our dreams and share our stories. What extent will you go?
+WE are an extension of [a larger synergistic ecclesiastical social enterprise](http://whatextent.com) and platform to **build community** by **empowering people**.
 
-## #WhatExtent will you go?
-
-Simply use the hashtag `#whatextent` in your posts to show the world the extent you're willing to go with the things you care about –– your dreams, talents, passions, friends, family, faith, sports, school, career, or just good ole' life in general.
 
 ![Justin Bicycling Across America]({{ "/assets/images/about/team/board-of-directors/justin-too/cover-justin-too.jpg" | absolute_url }}){: .align-center}
 
 <hr/>
-*<a href="http://whatextent.com">Project What Extent Inc.</a> is a registered California Nonprofit Public Benefit Corporation (Entity Number C3730422).*
+*<a href="http://wemassmedia.com">WE Mass Media, Inc.</a> is a registered Corporation in the State of California.*

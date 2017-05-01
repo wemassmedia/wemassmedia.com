@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "About"
-  #  url: /about/
+  - title: "About"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -18,26 +18,16 @@ about:
     children:
       - title: "Our Company"
         url: /about
-      - title: "Our History"
-        url: /about
-  - title: "Executive Team"
-    children:
-      - title: "<strong>CEO</strong> Justin Too"
-        url: /about/justin-too
-  - title: "Board of Directors"
+  - title: "Team"
     url: /about/board-of-directors
     children:
-      - title: "<strong>Chairman</strong> Mike Brock"
-        url: /about/mike-brock
-      - title: "<strong>Director</strong> Debbie Hudson"
-        url: /about/debbie-hudson
-      - title: "<strong>Director</strong> Greg Brown"
-        url: /about/greg-brown
-      - title: "<strong>Director</strong> JR Gamez"
-        url: /about/jr-gamez
-      - title: "<strong>Director</strong> Justin Too"
+      - title: "Justin Too"
         url: /about/justin-too
-      - title: "<strong>Director</strong> Micaiah Irmler"
-        url: /about/micaiah-irmler
-      - title: "<strong>Director</strong> Natessa Martinez"
-        url: /about/natessa-martinez
+      - title: "Khristy Too"
+        url: /about/khristy-too
+      - title: "Melina Mo'okini"
+        url: /about/melina-mookini
+      - title: "Sonny Too"
+        url: /about/sonny-too
+      - title: "Sophine Too"
+        url: /about/sophine-too
